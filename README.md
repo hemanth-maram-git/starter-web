@@ -1,5 +1,8 @@
 # starter web project
 
+This is a sim[ple website projectfor showing 
+how to use git github together.
+
 ##Introduction
 
 ##Purpose
