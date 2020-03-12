@@ -5,6 +5,8 @@ how to use git github together.
 
 ##Introduction
 
+This example is to show different partds od the git epo and various commmands
+
 ##Purpose
 
 ##Deployment
