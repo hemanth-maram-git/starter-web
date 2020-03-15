@@ -9,7 +9,13 @@ This example is to show different partds od the git epo and various commmands
 
 ##Purpose
 
+some comment1
+
+
 ##Deployment
+
+some comment 2
+
 
 ##How to contribute
 
