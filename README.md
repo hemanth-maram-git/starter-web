@@ -20,6 +20,10 @@ some comment 2
 ##How to contribute
 
 
+###copyright
+
+2014 git.training.
+
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
