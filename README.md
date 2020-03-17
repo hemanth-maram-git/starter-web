@@ -18,7 +18,7 @@ some comment 2
 
 
 ##How to contribute
-
+please fork and review.
 
 ###copyright
 
