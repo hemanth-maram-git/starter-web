@@ -9,7 +9,7 @@ This example is to show different partds od the git epo and various commmands
 
 ##Purpose
 
-some comment1
+some comment 1
 
 
 ##Deployment
