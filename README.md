@@ -1,7 +1,7 @@
 # starter web project
 
 This is a sim[ple website projectfor showing 
-how to use git github together. Adding a file for rebasing. then more changes from myfeature branch too. testcomment1
+how to use git github together. Adding a file for rebasing. then more changes from myfeature branch too. testcomment1. rebasing example.
 
 ##Introduction
 
